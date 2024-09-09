@@ -1,0 +1,14 @@
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\bin\Debug\net8.0\tetris777.exe
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\bin\Debug\net8.0\tetris777.deps.json
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\bin\Debug\net8.0\tetris777.runtimeconfig.json
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\bin\Debug\net8.0\tetris777.dll
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\bin\Debug\net8.0\tetris777.pdb
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\obj\Debug\net8.0\tetris777.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\obj\Debug\net8.0\tetris777.AssemblyInfoInputs.cache
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\obj\Debug\net8.0\tetris777.AssemblyInfo.cs
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\obj\Debug\net8.0\tetris777.csproj.CoreCompileInputs.cache
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\obj\Debug\net8.0\tetris777.dll
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\obj\Debug\net8.0\refint\tetris777.dll
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\obj\Debug\net8.0\tetris777.pdb
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\obj\Debug\net8.0\tetris777.genruntimeconfig.cache
+C:\Users\mursl\source\repos\оаип пр\tetris777\tetris777\obj\Debug\net8.0\ref\tetris777.dll
